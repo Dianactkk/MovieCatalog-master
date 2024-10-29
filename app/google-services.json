@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "369982137746",
+    "project_id": "diana22343003",
+    "storage_bucket": "diana22343003.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369982137746:android:3612563c58703efb854d4b",
+        "android_client_info": {
+          "package_name": "com.diana.moviecatalog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369982137746-9qorml3p9df36ph43f40erp95sg8nr9k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.diana.moviecatalog",
+            "certificate_hash": "379058c8ef0615e0db32ecac041c52b9ee1b6b80"
+          }
+        },
+        {
+          "client_id": "369982137746-49r26fkp1c3a8qp1uu74tgf5r9ihg9r7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrB7lElG6MME2sGYBpfXrTNH5bhGz17LM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369982137746-49r26fkp1c3a8qp1uu74tgf5r9ihg9r7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

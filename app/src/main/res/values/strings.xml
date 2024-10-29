@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Movie Catalog</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nama_movie">Name_Movie</string>
+    <string name="description">description</string>
+    <string name="default_web_client_id">369982137746-49r26fkp1c3a8qp1uu74tgf5r9ihg9r7.apps.googleusercontent.com</string>
+</resources>

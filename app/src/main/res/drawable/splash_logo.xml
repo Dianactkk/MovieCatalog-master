@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <bitmap
+            android:gravity="center"
+            android:src="@drawable/logo_image" /> <!-- Ubah logo_image dengan nama file logo Anda -->
+    </item>
+</layer-list>
